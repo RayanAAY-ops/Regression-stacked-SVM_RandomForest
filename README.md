@@ -9,7 +9,7 @@ With a deeper one ,the result would probably be better. (DM me if you achieve be
 
 ### STEPS OF EXECUTIONS ###
 
-1.  pip install -r requirements.txt
+1.  pip install -r requirements.txt && mkdir sample
 
 2.  python3 preprocessing.py    
 
