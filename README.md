@@ -1,5 +1,5 @@
 # Regression-stacked-SVM_RandomForest
-This is my implementation of a stacked regressor using optimized SVM  and  random Forest using Optuna.The actual inputs of the combined regressor is  a latent representation  of 59 numerical inputs compressed into 3 ,extracted using an auto-encoder implemented under Keras   
+This is my implementation of a stacked regressor using optimized SVM  and  random Forest using Optuna.The actual inputs of the combined regressor is  a latent representation  of 59 numerical inputs compressed into 5 ,extracted using an auto-encoder implemented under Keras   
 
 My goal was to focus on the model instead of the data itself and all the visualisation/preprocessing behind .
 
